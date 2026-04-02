@@ -1,5 +1,5 @@
 # Author       : Hongtao Gao
-# Email        : 12123@163.com
+# Email        : ghtsoftware@163.com
 # Title        : Unsupervised Feature Selection Using Fuzzy Graph Momentum Random Walk in Bi-level Granular-Ball Knowledge Space
 # Abbreviation : FGMRW-UFS
 # Journal      : TKDE (IEEE Transactions on Knowledge and Data Engineering)
